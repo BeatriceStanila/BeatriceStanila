@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @btxoana
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on beginner projects
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: beatrice.stanila@gmail.com
 
 <!---
