@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @btxoana
+- 👋 Hi, I’m Beatrice
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on any projects
