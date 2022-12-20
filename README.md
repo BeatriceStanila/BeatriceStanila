@@ -21,7 +21,7 @@ Aspiring Software Developer
 
 Back in high-school I wrote my first "Hello World!" in C++. However, my goal was to help people and make a difference in their life, so I become a pharmacist 🎓🥼🧪. Even though being a pharmacist is a rewarding and challenging career, it was not a good fit for me. Exploring other careers, I realized that a software developer can also make a positive impact on people's life by creating software solutions that help solve problems. Now, I'm a student at the School of Code Bootcamp 👩🏻‍💻.
 
-If I'm not coding you'll probably find me working out or trying out new sports ⛸️💃🏻🧗🏻‍♀️! 
+If I'm not coding you'll probably find me working out or trying out new sports ⛸️💃🏻🧗🏻‍♀️! Keep On Moving 💪🏻!
 
 <hr>
 Languages and Tools: 
