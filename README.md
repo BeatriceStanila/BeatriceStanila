@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" 
-  width="100"/>
+  width="400"/>
 </div>
 
-<h1>Hi, I'm Beatrice but friends call me Bea ☺️</h1>
+<h1>Hi, My name is Beatrice, but friends call me Bea ☺️</h1>
 
-<h4>I am a student at the School of Code Bootcamp. 🚀</h4>
+<h4>I'm a student at the School of Code Bootcamp. 🚀</h4>
 
 <hr>
 
