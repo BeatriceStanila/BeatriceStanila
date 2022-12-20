@@ -12,9 +12,10 @@
   </a>
 </div>
 
+<div id="intro" align="center">
 <h1>Hi, my name is Beatrice Stanila ☺️</h1>
-
 <h4>Aspiring Software Developer</h4>
+</div>
 
 <hr>
 
