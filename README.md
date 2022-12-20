@@ -1,19 +1,29 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" 
-  width="400"/>
+  width="200"/>
 </div>
 
-<h1>Hi, My name is Beatrice, but friends call me Bea ☺️</h1>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/beatrice-oana-stanila-82219b144/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://twitter.com/BeatriceStanila">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<h4>I'm a student at the School of Code Bootcamp. 🚀</h4>
+<h1>Hi, my name is Beatrice Stanila ☺️</h1>
+
+<h4>Aspiring Software Developer</h4>
 
 <hr>
 
-Back in high-school I wrote my first <h5>Hello World!</h5> in C++. However, my goal was to help people and make a difference in their life, so I become a pharmacist 🎓🥼🧪. Even though being a pharmacist is a rewarding and challenging career, it was not a good fit for me. Exploring other careers, I realized that a software developer can also make a positive impact on people's life by creating software solutions that help solve problems.
+Back in high-school I wrote my first "Hello World!" in C++. However, my goal was to help people and make a difference in their life, so I become a pharmacist 🎓🥼🧪. Even though being a pharmacist is a rewarding and challenging career, it was not a good fit for me. Exploring other careers, I realized that a software developer can also make a positive impact on people's life by creating software solutions that help solve problems. Now, I'm a student at the School of Code Bootcamp 👩🏻‍💻.
 
-If I'm not learning how to code you'll probably find me working out or trying out new sports ⛸️💃🏻🧗🏻‍♀️! You can also find me on <a href="https://twitter.com/BeatriceStanila">LinkedIn</a> and <a href="https://twitter.com/BeatriceStanila">Twitter</a>.
+If I'm not coding you'll probably find me working out or trying out new sports ⛸️💃🏻🧗🏻‍♀️! You can also find me on <a href="https://twitter.com/BeatriceStanila">LinkedIn</a> and <a href="https://twitter.com/BeatriceStanila">Twitter</a>.
 
 <hr>
+
 
 <!---
 btxoana/btxoana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
