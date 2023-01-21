@@ -19,7 +19,9 @@ Aspiring Software Developer
 
 <hr>
 
-Back in high-school I wrote my first "Hello World!" in C++. However, my goal was to help people and make a difference in their life, so I become a pharmacist 🎓🥼🧪. Even though being a pharmacist is a rewarding and challenging career, it was not a good fit for me. Exploring other careers, I realized that a software developer can also make a positive impact on people's life by creating software solutions that help solve problems. Now, I'm a student at the School of Code Bootcamp 👩🏻‍💻.
+Back in high-school I wrote my first "Hello World!" in C++. However, my goal was to help people and make a difference in their life, so I become a pharmacist 🎓🥼🧪. It wasn't until I attended a Brum.js meetup that I realized my true calling was in the tech industry. I made the decision to change careers and pursued my passion by attending the School of Code bootcamp. Now, I am excited to continue growing and eager to put my newly acquired skills and knowledge to use by seeking out opportunities as a software developer.
+
+
 
 If I'm not coding you'll probably find me working out or trying out new sports ⛸️💃🏻🧗🏻‍♀️! Keep On Moving 💪🏻!
 
