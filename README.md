@@ -14,7 +14,7 @@
 
 <div id="intro" align="center">
 <h1>Hi, my name is Beatrice Stanila ☺️</h1>
-Aspiring Software Developer
+Junior Software Developer
 </div>
 
 <hr>
