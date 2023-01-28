@@ -58,13 +58,13 @@ Languages and Tools:
     <td>1. Flash it - Week 9</td>
     <td><a href="https://github.com/SchoolOfCode/bc13_w9_project-frontend-hakunamatata">Github</td>
     <td><a href="https://flash-it-frontend.onrender.com/">Demo</td>
-    <td> React.js<br/> Node.js<br/> Express.js<br/> PostgreSQL<br/> ElephantSQL<br/> Axios<br/>Figma</td>
+    <td> React.js<br/> Node.js<br/> Axios<br/> Figma<br/>Express.js<br/> PostgreSQL<br/> ElephantSQL</td>
   </tr>
   <tr>
     <td>2. Amigo - Final Project</td>
     <td><a href="https://github.com/BeatriceStanila/Amigo">Github</td>
     <td><a href="https://amigostravel.netlify.app/">Demo</td>
-    <td> Next.js<br/> Node.js<br/> Express.js<br/> PostgreSQL<br/> ElephantSQL<br/> Axios<br/>Figma<br/> TailwindCSS<br/> Firebase Auth<br/> OpenTripMap API</td>
+    <td> Next.js<br/> Node.js<br/> Axios<br/> Figma<br/> Express.js<br/> PostgreSQL<br/> ElephantSQL</br> TailwindCSS<br/> Firebase Auth<br/> OpenTripMap API</td>
   </tr>
 
 
