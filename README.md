@@ -41,6 +41,43 @@ Languages and Tools:
  
 </div>
 
+<hr>
+
+
+<div style="display:flex; justify-content:center; "}>
+
+<h1 align="center"> Projects </h1>
+
+<div style="height:600px; width:600px;">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th></th>
+    <th></th>
+    <th>Tech Used</th>
+  </tr>
+  <tr>
+    <td>1. Flash it - Week 9</td>
+    <td><a href="https://github.com/SchoolOfCode/bc13_w9_project-frontend-hakunamatata">Github</td>
+    <td><a href="https://flash-it-frontend.onrender.com/">Demo</td>
+    <td> React.js<br/> Node.js<br/> Express.js<br/> PostgreSQL<br/> ElephantSQL<br/> Axios<br/>Figma</td>
+  </tr>
+  <tr>
+    <td>2. Amigo - Final Project</td>
+    <td><a href="https://github.com/BeatriceStanila/Amigo">Github</td>
+    <td><a href="https://amigostravel.netlify.app/">Demo</td>
+    <td> Next.js<br/> Node.js<br/> Express.js<br/> PostgreSQL<br/> ElephantSQL<br/> Axios<br/>Figma<br/> TailwindCSS<br/> Firebase Auth<br/> OpenTripMap API</td>
+  </tr>
+
+
+
+  
+</table>
+
+</div>
+
+
 
 <!---
 btxoana/btxoana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
