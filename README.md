@@ -23,7 +23,8 @@ Back in high-school I wrote my first "Hello World!" in C++. However, my goal was
 If I'm not coding you'll probably find me working out or trying out new sports ⛸️💃🏻🧗🏻‍♀️! Keep On Moving 💪🏻!
 
 <hr>
-Languages and Tools: 
+  
+  <h1>Languages and Tools:</h1>
   
   
 <br>
