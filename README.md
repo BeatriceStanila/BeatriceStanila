@@ -24,7 +24,7 @@ If I'm not coding you'll probably find me working out or trying out new sports â
 
 <hr>
   
-  <h2 align="center">Languages and Tools:</h2>
+  <h2>Languages and Tools:</h2>
   
   
 <br>
@@ -48,7 +48,7 @@ If I'm not coding you'll probably find me working out or trying out new sports â
 
 <div style="display:flex; justify-content:center; "}>
 
-<h1 align="center"> Projects </h1>
+<h2> Projects </h2>
 
 <div style="height:600px; width:600px;">
 
