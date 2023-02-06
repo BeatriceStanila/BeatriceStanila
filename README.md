@@ -24,6 +24,8 @@ If I'm not coding you'll probably find me working out or trying out new sports â
 
 <hr>
 Languages and Tools: 
+  
+  
 <br>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-6100A5?style=flat-square&logo=html5&logoColor=white" />
