@@ -10,7 +10,7 @@
 </div>
 
 <div id="intro" align="center">
-<h1>Hi, my name is Beatrice Stanila ☺️</h1>
+<h1>Hi there, I'm Beatrice Stanila ☺️</h1>
 Junior Software Developer
 </div>
 
