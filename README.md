@@ -24,7 +24,7 @@ If I'm not coding you'll probably find me working out or trying out new sports â
 
 <hr>
   
-  <h1>Languages and Tools:</h1>
+  <h2>Languages and Tools:</h2>
   
   
 <br>
