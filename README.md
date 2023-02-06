@@ -25,18 +25,26 @@ If I'm not coding you'll probably find me working out or trying out new sports â
 <hr>
 Languages and Tools: 
 <br>
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://user-images.githubusercontent.com/94804674/208704843-063f9dd3-d367-4cd0-b93e-67be25d6227e.png" title="Figma" alt="Figma" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="60" height="60">
- 
-</div>
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-6100A5?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-77216F?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-FF61F6?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-EA4C89?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-E53238?style=flat-square&logo=git&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FF4713?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-FF9C42?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Nx" src="https://img.shields.io/badge/-Nx-F29400?style=flat-square&logo=nx&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-CD9834?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-83B81A?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="yarn" src="https://img.shields.io/badge/-Yarn-239120?style=flat-square&logo=yarn&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-00B388?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="SVG" src="https://img.shields.io/badge/-SVG-00C4CC?style=flat-square&logo=svg&logoColor=white" />
+  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-00BAF2?style=flat-square&logo=storybook&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-0085C0?style=flat-square&logo=Jest&logoColor=white" />
+  <img alt="Testing library" src="https://img.shields.io/badge/-Testing_Library-006699?style=flat-square&logo=testing-library&logoColor=white" />
+</p>
+<br>
 
 <hr>
 
