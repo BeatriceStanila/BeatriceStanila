@@ -17,7 +17,7 @@ Junior Software Developer
 <hr>
   <h2>Languages and Tools</h2>
   
-  
+<p>As a former pharmacist who completed the School of Code Bootcamp, I've transitioned into a full-stack web developer with a passion for using technology to solve complex problems and improve user experiences. Outside of work, you can often find me attending local tech meetups to network with other developers and stay up-to-date on the latest trends. I'm also an avid fitness enthusiast and enjoy trying new workouts, from high-intensity interval training to yoga 🧘🏻‍♀️. </p>
 <br>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-6100A5?style=flat-square&logo=html5&logoColor=white" />
