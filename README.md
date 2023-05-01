@@ -3,11 +3,7 @@
   width="220" />
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/beatrice-oana-stanila-82219b144/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- 
-</div>
+
 
 <div id="intro" align="center">
 <h1>Hi there👋🏻, I'm Beatrice Stanila (Bea ☺️). </h1>
