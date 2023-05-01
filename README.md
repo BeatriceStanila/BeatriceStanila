@@ -15,15 +15,6 @@ Junior Software Developer
 </div>
 
 <hr>
-
-Back in high-school I wrote my first "Hello World!" in C++. However, my goal was to help people and make a difference in their life, so I become a pharmacist 🎓🥼🧪. It wasn't until I attended a Brum.js meetup that I realized my true calling was in the tech industry. I made the decision to change careers and pursued my passion by attending the School of Code bootcamp. Now, I am excited to continue growing and eager to put my newly acquired skills and knowledge to use by seeking out opportunities as a software developer.
-
-
-
-If I'm not coding you'll probably find me working out or trying out new sports ⛸️💃🏻🧗🏻‍♀️! Keep On Moving 💪🏻!
-
-<hr>
-  
   <h2>Languages and Tools</h2>
   
   
@@ -61,14 +52,14 @@ If I'm not coding you'll probably find me working out or trying out new sports �
   </tr>
   <tr>
     <td>1. Flash it - Week 9</td>
-    <td><a href="https://github.com/SchoolOfCode/bc13_w9_project-frontend-hakunamatata">Github</td>
-    <td><a href="https://flash-it-frontend.onrender.com/">Demo</td>
+    <td><a href="https://github.com/SchoolOfCode/bc13_w9_project-frontend-hakunamatata" target="_blank">Github</td>
+    <td><a href="https://flash-it-frontend.onrender.com/" target="_blank" >Demo</td>
     <td> React.js<br/> Node.js<br/> Axios<br/> Figma<br/>Express.js<br/> PostgreSQL<br/> ElephantSQL</td>
   </tr>
   <tr>
     <td>2. Amigo - Final Project</td>
-    <td><a href="https://github.com/BeatriceStanila/Amigo">Github</td>
-    <td><a href="https://amigostravel.netlify.app/">Demo</td>
+    <td><a href="https://github.com/BeatriceStanila/Amigo" target="_blank">Github</td>
+    <td><a href="https://amigostravel.netlify.app/" target="_blank">Demo</td>
     <td> Next.js<br/> Node.js<br/> Axios<br/> Figma<br/> Express.js<br/> PostgreSQL<br/> ElephantSQL</br> TailwindCSS<br/> Firebase Auth<br/> OpenTripMap API</td>
   </tr>
 
