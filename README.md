@@ -13,7 +13,7 @@
 <h1>Hi there👋🏻, I'm Beatrice Stanila (Bea ☺️). </h1>
   <h2>Junior Software Developer</h2>
   
-<div>
+</div>
   
  <br>
   
