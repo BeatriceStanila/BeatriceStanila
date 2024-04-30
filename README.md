@@ -35,43 +35,7 @@
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-0085C0?style=flat-square&logo=Jest&logoColor=white" />
   <img alt="Testing library" src="https://img.shields.io/badge/-Testing_Library-006699?style=flat-square&logo=testing-library&logoColor=white" />
 </p>
-<br>
 
-<hr>
-
-
-<div style="display:flex; justify-content:center; "}>
-
-<h2> Projects </h2>
-
-<div style="height:600px; width:600px;">
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th></th>
-    <th></th>
-    <th>Tech Used</th>
-  </tr>
-  <tr>
-    <td>1. Flash it - Week 9</td>
-    <td><a href="https://github.com/SchoolOfCode/bc13_w9_project-frontend-hakunamatata" target="_blank">Github</td>
-    <td><a href="https://flash-it-frontend.onrender.com/" target="_blank" >Demo</td>
-    <td> React.js<br/> Node.js<br/> Axios<br/> Figma<br/>Express.js<br/> PostgreSQL<br/> ElephantSQL</td>
-  </tr>
-  <tr>
-    <td>2. Amigo - Final Project</td>
-    <td><a href="https://github.com/BeatriceStanila/Amigo" target="_blank">Github</td>
-    <td><a href="https://amigostravel.netlify.app/" target="_blank">Demo</td>
-    <td> Next.js<br/> Node.js<br/> Axios<br/> Figma<br/> Express.js<br/> PostgreSQL<br/> ElephantSQL</br> TailwindCSS<br/> Firebase Auth<br/> OpenTripMap API</td>
-  </tr>
-
-
-
-  
-</table>
-
-</div>
 
 
 
