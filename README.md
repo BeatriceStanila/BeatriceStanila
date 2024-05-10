@@ -6,7 +6,7 @@
 
 
 <div id="intro" align="center">
-<h1>Hi there👋🏻, I'm Beatrice Stanila (Bea ☺️). </h1>
+
   <h2>Junior Software Developer</h2>
   
 </div>
@@ -14,7 +14,7 @@
 
 
 
-<hr>
+
   <h2>Languages and Tools</h2>
   
 
